@@ -2,7 +2,7 @@
 
 This generates Wechat friends signatures' wordcloud.
 
-First,command 'python3 wechat-info-spider.py' to get Friends_in_wechat.xlsx,which include most of info you want for your friends.
+First,command 'python3 wechat-info-spider.py' to get Friends_in_wechat.xlsx,which include most of info you want of your friends.
 Then,command 'python3 wechat-signature-wordcloud.py' to get the wordcloud jpg.
 
 Just for fun!
